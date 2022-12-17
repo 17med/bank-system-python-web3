@@ -7,7 +7,6 @@
 </h2>
 
 ```sh
-cd dillinger
-npm i
-node app
+cd bank-system-python-web3
+python3 main.py
 ```
