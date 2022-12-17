@@ -5,9 +5,17 @@
   <a href="https://web3py.readthedocs.io/en/v5/" title="Ganache README.md"><img alt="Ganache" src="https://miro.medium.com/max/1194/1*XCUD4_6FdYaZgM4b8FbjUg.png" alt="python web3" /></a><br><br>
   <a href="#readme" title="Ganache README.md"><img alt="Ganache" src="https://trufflesuite.github.io/ganache/assets/img/ganache-logo-dark.svg" alt="Ganache" width="200"/></a>
 </h2>
+<br>
+<br>
+Before start install all libraries
+```sh
+cd bank-system-python-web3
+pip install -r requirements.txt
+```
+<br>
+<br>
 Once installed run this command to start the program<br>
 
 ```sh
-cd bank-system-python-web3
 python3 main.py
 ```
