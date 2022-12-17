@@ -6,5 +6,5 @@
   <a href="#readme" title="Ganache README.md"><img alt="Ganache" src="https://trufflesuite.github.io/ganache/assets/img/ganache-logo-dark.svg" alt="Ganache" width="200"/></a>
 </h2>
 ```console
-$ python main.py
+$ npm install ganache --global
 ```
